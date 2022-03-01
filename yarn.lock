@@ -5427,39 +5427,3 @@ yallist@^4.0.0:
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-4.0.0.tgz#9bb92790d9c0effec63be73519e11a35019a3a72"
   integrity sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==
 
-yt-search@^2.8.0:
-  version "2.10.1"
-  resolved "https://registry.yarnpkg.com/yt-search/-/yt-search-2.10.1.tgz#971c2b4675e31ed503218e101583d0995c435589"
-  integrity sha512-7xORFvQMkzkVVOsRVV6qW+Ld8FIl8OQcN3ThsDf04jwr2GyR4miGmC98IA2X/gjTWUEj2SRhmzw6kApj3LHdsQ==
-  dependencies:
-    async.parallellimit "~0.5.2"
-    boolstring "~1.0.2"
-    cheerio "^1.0.0-rc.10"
-    dasu "~0.4.2"
-    human-time "0.0.2"
-    jsonpath-plus "~5.0.2"
-    minimist "~1.2.5"
-    node-fzf "~0.5.1"
-
-yt-search@^2.9.0:
-  version "2.10.2"
-  resolved "https://registry.yarnpkg.com/yt-search/-/yt-search-2.10.2.tgz#57790043b958d3f9e357607b3f3c252ba2314b59"
-  integrity sha512-cwg8yK3pVuwczfoADOqhVHj5i/Qv8xb7/wYh3gwvfGiHsxpgDtMKKuBWyOenrXwwC7A/nj3YQYsfDlZ2/rk83w==
-  dependencies:
-    async.parallellimit "~0.5.2"
-    boolstring "~1.0.2"
-    cheerio "^1.0.0-rc.10"
-    dasu "~0.4.2"
-    human-time "0.0.2"
-    jsonpath-plus "~5.0.2"
-    minimist "~1.2.5"
-    node-fzf "~0.5.1"
-
-ytdl-core@^4.8.0, ytdl-core@^4.9.1:
-  version "4.9.1"
-  resolved "https://registry.yarnpkg.com/ytdl-core/-/ytdl-core-4.9.1.tgz#f587e2bd8329b5133c0bac4ce5ee1f3c7a1175a9"
-  integrity sha512-6Jbp5RDhUEozlaJQAR+l8oV8AHsx3WUXxSyPxzE6wOIAaLql7Hjiy0ZM58wZoyj1YEenlEPjEqcJIjKYKxvHtQ==
-  dependencies:
-    m3u8stream "^0.8.3"
-    miniget "^4.0.0"
-    sax "^1.1.3"
